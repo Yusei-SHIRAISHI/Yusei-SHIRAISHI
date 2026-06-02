@@ -1,15 +1,15 @@
 # Yusei SHIRAISHI
 
-Web application developer focused on building practical products with clean user experiences.
+使いやすい体験と運用しやすい仕組みを意識して、Web アプリケーションを作っています。
 
-## About
+## 自己紹介
 
-- Building full-stack web applications
-- Interested in product design, automation, and reliable operations
-- Prefer simple interfaces, readable code, and steady iteration
-- Learning by shipping small, useful things
+- フルスタックの Web アプリケーション開発に取り組んでいます
+- プロダクト設計、自動化、安定した運用に関心があります
+- シンプルな UI、読みやすいコード、継続的な改善を大切にしています
+- 小さく作って動かしながら学ぶことが好きです
 
-## Tech Stack
+## 技術スタック
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -21,12 +21,12 @@ Web application developer focused on building practical products with clean user
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
 
-## Current Focus
+## 今取り組んでいること
 
-- Improving user-facing web experiences
-- Designing maintainable frontend and backend workflows
-- Automating repetitive development and operations tasks
-- Turning ideas into working prototypes quickly
+- ユーザー向け画面の体験改善
+- 保守しやすいフロントエンド / バックエンドの設計
+- 開発や運用で発生する作業の自動化
+- アイデアを素早くプロトタイプにすること
 
 ## GitHub
 
@@ -38,6 +38,6 @@ Web application developer focused on building practical products with clean user
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusei-SHIRAISHI&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
-## Contact
+## 連絡
 
-Feel free to reach out through GitHub repositories and issues.
+GitHub のリポジトリや Issue から気軽に連絡してください。
