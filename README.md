@@ -4,7 +4,7 @@
 
 ## 自己紹介
 
-- フルスタックの Web アプリケーション開発に取り組んでいます
+- Ruby や TypeScript を使ったフルスタックの Web アプリケーション開発に取り組んでいます
 - プロダクト設計、自動化、安定した運用に関心があります
 - シンプルな UI、読みやすいコード、継続的な改善を大切にしています
 - 小さく作って動かしながら学ぶことが好きです
@@ -16,6 +16,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
